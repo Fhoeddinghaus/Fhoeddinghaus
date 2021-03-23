@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix Höddinghaus</h1>
 
+I'm a (self-taught, mostly freelancing) full stack developer in my spare time and a physics B.S. student (or the other way around? 🤔).
+
 <h3 align="left">Languages and Tools:</h3>
 <center><table>
 	<tr>
@@ -144,16 +146,28 @@
 </a--> 
 <!--/p-->
 
-## Donate
+## Donate / Support
+<p align="left">
 If you want, you can donate e.g. for the Corvus Project (developement / server cost / apps):<br/>
 <a href="https://www.paypal.com/donate?hosted_button_id=P5F37R2T74V3A" target="_blank">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" width="200" />
 </a>
+</p>
 
-For general donations/private transactions, use the following button:<br/>
+or for general donations/private transactions, use one of the following buttons:
+<table>
+<tr><td>
+<p align="left">
+<a href="https://www.buymeacoffee.com/fhoeddinghaus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fhoeddinghaus" /></a>
+</p>
+</td><td>
+<p align="left"><br/>
 <a href="https://paypal.me/xefli/" target="_blank">
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/paypal.svg" /> paypal.me/xefli/
 </a>
+</p>
+</td></tr>
+</table>
 
 
 <!--
