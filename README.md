@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felix Höddinghaus</h1>
 
-I'm a (self-taught, mostly freelancing) full stack developer in my spare time and a physics B.S. student (or the other way around? 🤔).
+#### I'm a (self-taught, mostly freelancing) full stack developer in my spare time and a physics B.S. student (or the other way around? 🤔).
 
 <h3 align="left">Languages and Tools:</h3>
 <center><table>
