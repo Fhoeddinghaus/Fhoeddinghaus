@@ -66,6 +66,9 @@
 				</a>
 				<a href="https://kubernetes.io" target="_blank"> 
 					<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+				</a>
+				<a href="https://fai-project.org" target="_blank"> 
+					<img src="https://wiki.fai-project.org/images/fai-logo.png" alt="FAI" width="40" height="40"/> 
 				</a> 
 			</p>
 		</td>
