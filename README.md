@@ -20,7 +20,10 @@
 				</a>
 				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-				</a> 
+				</a>
+				<a href="https://jquery.com/" target="_blank">
+					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
+				</a>
 			</p> 
 		</td>
 		<td>
@@ -29,7 +32,10 @@
 					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 				</a>
 				<a href="https://julialang.org" target="_blank">
-					<img src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" alt="julia" width="40" height="40">
+					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original-wordmark.svg" alt="julia" width="40" height="40">
+				</a>
+				<a href="https://www.w3schools.com/c/" target="_blank"> 
+					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
 				</a>
 				<a href="https://www.python.org" target="_blank"> 
 					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
