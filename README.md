@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felix Höddinghaus</h1>
+<h1 align="center">Hi 👋, I'm Feli Höddinghaus</h1>
 
 #### I'm a (self-taught, mostly freelancing) full stack developer in my spare time and a physics M.Sc. student (or the other way around? 🤔).
 
